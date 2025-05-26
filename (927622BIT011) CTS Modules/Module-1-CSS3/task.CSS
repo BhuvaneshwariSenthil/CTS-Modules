@@ -1,0 +1,31 @@
+/* General Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Typography */
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #333;
+}
+
+/* Header styles */
+#mainHeader {
+  background-color: #003366;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Event card styles */
+.eventCard {
+  border: 1px solid #ccc;
+  padding: 15px;
+  margin: 10px;
+  background-color: #fff;
+  border-radius: 5px;
+}
+
+/* Grouping selectors */
